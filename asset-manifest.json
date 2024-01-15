@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.679a1832.js",
+    "static/media/portrait.png": "/static/media/portrait.5538538f6b735a09cc42.png",
+    "static/media/raytracer.png": "/static/media/raytracer.858be9635e982ddae717.png",
+    "static/media/subnets.png": "/static/media/subnets.20eeabef69c4d493fa33.png",
+    "static/media/othello.png": "/static/media/othello.c977ed970a4c7864d0ba.png",
+    "static/media/SVG Faces 15.svg": "/static/media/SVG Faces 15.9f8f6cff50ea57fbecf3.svg",
+    "index.html": "/index.html",
+    "main.679a1832.js.map": "/static/js/main.679a1832.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.679a1832.js"
+  ]
+}
