@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Othello-GPT",
+    "year": "2023",
+    "img": "othello.png",
+    "description": "In my Othello-GPT project, under the guidance of Professor Ellie Pavlick, I delved into the internal board state of a GPT model proficient in playing Othello. Employing PyTorch and TransformerLens, I compared the efficacy of linear and nonlinear probes across various layers, visualizing and verifying the existence of an internal board state. I identified meaningful neurons, scrutinizing their correlation with specific board states and attention mechanisms, while also conducting interventions using both nonlinear and linear probes, documenting scenarios and effectiveness in a comprehensive whitepaper.",
+    "link": "https://github.com/vpandiarajan20/othello-gpt"
+  },
+  {
+    "title": "Subnetworks and Superposition ",
+    "year": "2023",
+    "img": "subnets.png",
+    "description": "Under the mentorship of Professor Chen Sun, I explored the realm of polysemantic neurons in AlexNet through my Subnetworks and Superposition project. Leveraging PyTorch and Lucent, I utilized subnetwork analysis to confirm that distinct semantic uses emerge via statistically independent processes. Visualizations, including reverse gradient visualizations, showcased the results of continuous sparsification and traditional scoring methods like ActGrad and SNIP. This exploration led to valuable insights into networks achieving 3%-7% sparsity, documented in a comprehensive whitepaper.",
+    "link": "https://github.com/vpandiarajan20/subnetworks-superposition/blob/main/Subnetworks_and_Superposition.pdf"
+  },
+  {
+    "title": "Information Retrieval with LLMs",
+    "year": "2022",
+    "img": null,
+    "description": "In the Information Retrieval with LLMs project, conducted under the guidance of Professor Ellie Pavlick, I successfully deployed a 176 billion-parameter model on the Brown University compute cluster. My work involved customizing open-source packages, implementing sharding for computational efficiency. Using in-context learning, I optimized document relevance to search queries, employing prompt engineering techniques to enhance search results.",
+    "link": ""
+  },
+  {
+    "title": "3D Scene Raytracer",
+    "year": "2023",
+    "img": "raytracer.png",
+    "description": "For my 3D Scene Raytracer project, I developed a CUDA-powered solution with NVIDIA GPU tools in C++. Constructing a raytracer from scratch, I implemented a KD-Tree acceleration structure, parallelization, supersampling, interpolation, and depth-of-field. Through meticulous profiling and optimization, I achieved rendering speeds of meshes with 1,151,756 triangles in just 732ms at a resolution of 10,000x10,000, demonstrating the efficiency of the implemented techniques.",
+    "link": "https://alexbao.net/personal-site/html/remake.html"
+  }
+]

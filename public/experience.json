@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Viam - swe Intern",
+    "year": "05.2023 - 08.2023",
+    "description": "As a Software Engineering Intern at Viam, I led the design of multiple APIs in an obstacle detection project, enabling robots to navigate efficiently. I optimized point cloud segmentation algorithms, achieving a remarkable 300% speedup and reducing storage usage by 200%. My expertise in Go and Python, coupled with a focus on modular services, enhanced the adaptability of the system across different sensors and CPU architectures."
+  },
+  {
+    "title": "Sentry.io - swe Intern",
+    "year": "06.2022 - 08.2022",
+    "description": "During my internship at Sentry.io, I played a key role in developing Sentry Functions, streamlining integration into various applications. This feature, utilizing Google Cloud Functions, reduced prototyping and testing time by 50%, accompanied by a React-based UI. Collaborating with senior engineers, I addressed challenges with technologies like Docker and PostgreSQL, showcasing my ability to troubleshoot and deliver impactful solutions."
+  },
+  {
+    "title": "eSports Entertainment Group - Data Science Intern",
+    "year": "07.2021 - 09.2021",
+    "description": "As a Data Science Intern at eSports Entertainment Group, I optimized game analysis pipelines by applying computer vision models and streamlining data processes. My work involved implementing academic papers on predictive models and time series data, contributing to more effective data analysis in eSports. Cleaning and normalizing data from diverse game APIs, I built regression models, revealing correlations between victories and key gameplay metrics. My contributions, using tools like matplotlib, provided actionable insights from Fortnite game data, empowering players with informed decision-making."
+  }
+]
