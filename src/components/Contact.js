@@ -125,20 +125,6 @@ export default function Contact() {
           <a href='mailto:vignesh_pandiarajan@brown.edu'>Email</a>
           <div>My email is vignesh_pandiarajan@brown.edu</div>
         </MotionLink>
-        <MotionLink
-          initial={{ opacity: 0, x: -50 }}
-          transition={{ delay: 0.25, duration: 1 }}
-          whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true }}
-        >
-          <a
-            href='https://docs.google.com/file/d/1ZrYRPF4IyXtiuhcH4dc8jcnG7tLdQVwEjm9s7L3FJHo/view'
-            target='_blank'
-          >
-            Résumé
-          </a>
-          <div>Will send transcript upon request</div>
-        </MotionLink>
       </ContactContent>
       <motion.div
         initial={{ opacity: 0 }}
